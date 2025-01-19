@@ -1,8 +1,8 @@
-# 【Three.js】最新2025年　Three.js入門 3DCGの基礎を解説
+#2025年最新！Three.js入門：3DCGの基礎を完全解説
 
 ## YouTube
 
-[!["【【Three.js】最新2025年　Three.js入門 3DCGの基礎を解説"](https://i.ytimg.com/vi/uToP-ej6kXc/maxresdefault.jpg)](https://youtu.be/uToP-ej6kXc)
+[!["2025年最新！Three.js入門：3DCGの基礎を完全解説"](https://i.ytimg.com/vi/uToP-ej6kXc/maxresdefault.jpg)](https://youtu.be/uToP-ej6kXc)
 
 ## 技術選定
 
